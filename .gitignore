@@ -1,0 +1,6 @@
+.vscode/*
+.git/*
+venv/*
+*.pyc
+*.code-workspace
+.idea/*
